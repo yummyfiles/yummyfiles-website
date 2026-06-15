@@ -13,7 +13,7 @@ export default function GitHubActivity() {
 
         <ScrollReveal delay={0.1}>
           <p className="text-2xl sm:text-3xl font-medium leading-snug mt-8 mb-10">
-            Open source activity.
+            Open source activity
           </p>
         </ScrollReveal>
 
