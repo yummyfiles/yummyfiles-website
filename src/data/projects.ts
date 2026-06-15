@@ -37,8 +37,8 @@ export const projects: Project[] = [
     title: 'ImageX',
     description: 'Free image editor with the tools you actually need.',
     longDescription:
-      'ImageX started because I wanted a simple image editor that didn\'t cost money or have a million features I\'d never use. It does the basics really well — resize, crop, filters, batch edits. Built with Rust and WASM so it runs in the browser without feeling slow.',
-    tags: ['Python', 'Rust', 'WASM', 'WebGL'],
+      'ImageX started because I wanted a simple image editor that didn\'t cost money or have a million features I\'d never use. It does the basics really well — resize, crop, filters, batch edits. Building it with Electron so it runs as a desktop app.',
+    tags: ['Python', 'Electron', 'TypeScript'],
     links: [
       { label: 'GitHub', url: 'https://github.com/yummyfiles/imagex' },
     ],
