@@ -10,4 +10,9 @@ export const socialLinks: SocialLink[] = [
     url: 'https://github.com/yummyfiles',
     icon: 'github',
   },
+  {
+    name: 'YouTube',
+    url: 'https://www.youtube.com/@TheWolfPack123',
+    icon: 'youtube',
+  },
 ]

@@ -16,6 +16,15 @@ export default function Footer() {
           </a>
           <span className="text-white/10">/</span>
           <a
+            href="https://www.youtube.com/@TheWolfPack123"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-xs text-white/20 hover:text-white/50 transition-colors"
+          >
+            YouTube
+          </a>
+          <span className="text-white/10">/</span>
+          <a
             href="#hero"
             className="text-xs text-white/20 hover:text-white/50 transition-colors"
           >
