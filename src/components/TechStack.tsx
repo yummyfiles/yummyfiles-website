@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion'
 import { techStack, categories } from '@/data/techStack'
 import ScrollReveal from './ScrollReveal'
 
-import { SiTypescript, SiJavascript, SiPython, SiReact, SiTailwindcss, SiVite, SiNodedotjs, SiNextdotjs, SiGit, SiDocker, SiAndroidstudio } from 'react-icons/si'
+import { SiTypescript, SiJavascript, SiPython, SiReact, SiTailwindcss, SiVite, SiNodedotjs, SiNextdotjs, SiGit, SiDocker, SiElectron, SiAndroidstudio } from 'react-icons/si'
 import { VscVscode } from 'react-icons/vsc'
 
 function TechIcon({ name, icon }: { name: string; icon: string }) {
@@ -18,6 +18,7 @@ function TechIcon({ name, icon }: { name: string; icon: string }) {
     nextjs: <SiNextdotjs />,
     git: <SiGit />,
     docker: <SiDocker />,
+    electron: <SiElectron />,
     vscode: <VscVscode />,
     android: <SiAndroidstudio />,
   }

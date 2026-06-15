@@ -17,6 +17,7 @@ export const techStack: TechItem[] = [
   { name: 'Docker', category: 'Tools', icon: 'docker' },
   { name: 'VS Code', category: 'Tools', icon: 'vscode' },
   { name: 'Android Studio', category: 'Tools', icon: 'android' },
+  { name: 'Electron', category: 'Frontend', icon: 'electron' },
 ]
 
 export const categories = ['Languages', 'Frontend', 'Backend', 'Tools'] as const
