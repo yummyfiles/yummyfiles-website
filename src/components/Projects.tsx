@@ -77,7 +77,7 @@ export default function Projects() {
 
         <ScrollReveal delay={0.1}>
           <p className="text-2xl sm:text-3xl font-medium leading-snug mt-8 mb-12">
-            Things I've built and am building.
+            Things I made and stuff I'm working on
           </p>
         </ScrollReveal>
 
