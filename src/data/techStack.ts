@@ -8,7 +8,6 @@ export const techStack: TechItem[] = [
   { name: 'TypeScript', category: 'Languages', icon: 'typescript' },
   { name: 'JavaScript', category: 'Languages', icon: 'javascript' },
   { name: 'Python', category: 'Languages', icon: 'python' },
-  { name: 'Rust', category: 'Languages', icon: 'rust' },
   { name: 'React', category: 'Frontend', icon: 'react' },
   { name: 'Tailwind CSS', category: 'Frontend', icon: 'tailwind' },
   { name: 'Vite', category: 'Frontend', icon: 'vite' },
