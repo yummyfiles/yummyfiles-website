@@ -48,25 +48,7 @@ export default function Hero() {
           </div>
         </ScrollReveal>
 
-        <motion.div
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ delay: 1.5, duration: 1 }}
-          className="absolute bottom-8 left-1/2 -translate-x-1/2"
-        >
-          <motion.a
-            href="#about"
-            animate={{ y: [0, 6, 0] }}
-            transition={{ duration: 2, repeat: Infinity, ease: 'easeInOut' }}
-            className="flex flex-col items-center gap-2 text-white/30 hover:text-white/60 transition-colors"
-            aria-label="Scroll down"
-          >
-            <span className="text-[10px] uppercase tracking-[0.3em]">Scroll</span>
-            <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5">
-              <path d="M10 3v14m0 0l-6-6m6 6l6-6" />
-            </svg>
-          </motion.a>
-        </motion.div>
+
       </div>
     </section>
   )
