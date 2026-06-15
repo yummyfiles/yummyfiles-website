@@ -53,7 +53,7 @@ export default function TechStack() {
 
         <ScrollReveal delay={0.1}>
           <p className="text-2xl sm:text-3xl font-medium leading-snug mt-8 mb-12">
-            Tools and technologies I work with.
+            Apps and tech I use
           </p>
         </ScrollReveal>
 
