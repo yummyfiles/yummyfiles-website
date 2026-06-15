@@ -49,7 +49,7 @@ export const projects: Project[] = [
     title: 'VOID - Local AI Chat',
     description: 'Minimal desktop chat app for local AI models.',
     longDescription:
-      'VOID is a simple chat interface for talking to local AI models. No sign up, no cloud, no telemetry. Just open it and start chatting. Supports Ollama and llama.cpp. Built it because I wanted something clean that just worked.',
+      'VOID is a simple chat interface for local AI models. No sign-up, no cloud, and no telemetry. You open it and start chatting right away.\n\nIt supports Ollama models, so you can connect it to any local model running through Ollama.',
     tags: ['Electron', 'React', 'Ollama', 'TypeScript'],
     links: [],
     status: 'in-progress',
