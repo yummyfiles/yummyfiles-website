@@ -13,10 +13,10 @@ export const timeline: TimelineItem[] = [
     status: 'current',
   },
   {
-    year: 'Now',
+    year: 'Coming up',
     title: 'ImageX',
     description: 'Working on a free image editor with more tools and features.',
-    status: 'current',
+    status: 'upcoming',
   },
   {
     year: 'Later',
