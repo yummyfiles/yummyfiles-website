@@ -7,27 +7,27 @@ export interface TimelineItem {
 
 export const timeline: TimelineItem[] = [
   {
-    year: '2026 Q3',
-    title: 'MusicX v2',
-    description: 'Rewriting MusicX with a new architecture, adding collaborative playlists and real-time sync.',
+    year: 'Now',
+    title: 'MusicX',
+    description: 'Rebuilding MusicX and adding new features as I go.',
     status: 'current',
   },
   {
-    year: '2026 Q4',
-    title: 'ImageX Cloud',
-    description: 'Launching ImageX as a cloud service with a generous free tier for indie developers.',
-    status: 'upcoming',
+    year: 'Now',
+    title: 'ImageX',
+    description: 'Working on a free image editor with more tools and features.',
+    status: 'current',
   },
   {
-    year: '2027',
-    title: 'Project Nebula',
-    description: 'Open-source the distributed computing framework and build the initial developer community.',
+    year: 'Later',
+    title: 'Future Projects',
+    description: 'I have a bunch of ideas written down. Some of them will probably become real projects eventually.',
     status: 'upcoming',
   },
   {
     year: 'Ongoing',
     title: 'Open Source',
-    description: 'Contributing to projects I use daily and releasing tools that make development more enjoyable.',
+    description: 'Releasing projects when I think other people might find them useful.',
     status: 'current',
   },
 ]

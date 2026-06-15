@@ -15,7 +15,7 @@ export default function Building() {
 
         <ScrollReveal delay={0.1}>
           <p className="text-2xl sm:text-3xl font-medium leading-snug mt-8 mb-16">
-            What I'm working on right now and what's next.
+            What I'm working on right now.
           </p>
         </ScrollReveal>
 
