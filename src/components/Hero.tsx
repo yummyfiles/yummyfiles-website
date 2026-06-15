@@ -14,7 +14,7 @@ export default function Hero() {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-sm text-white/40 uppercase tracking-[0.2em] mb-6"
           >
-            Indie Developer & Creator
+            personal projects & experiments
           </motion.p>
         </ScrollReveal>
 

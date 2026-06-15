@@ -13,9 +13,9 @@ export const projects: Project[] = [
   {
     id: 'musix',
     title: 'MusicX',
-    description: 'A modern music streaming experience with intelligent playlists and seamless discovery.',
+    description: 'Offline music player focused on speed and simplicity.',
     longDescription:
-      'MusicX reimagines how you interact with your music library. It combines intelligent playlist generation with a clean, distraction-free interface. Built with performance in mind, it handles libraries of any size without breaking a sweat. Features include cross-platform sync, offline playback, and social listening rooms.',
+      'MusicX is an offline music player I built because I was tired of ads and bloated apps. It plays your local files, makes playlists, and just works. No accounts, no internet needed. Working on a v2 with some new ideas.',
     tags: ['React', 'TypeScript', 'Node.js', 'Audio'],
     links: [
       { label: 'GitHub', url: 'https://github.com/yummyfiles/musix' },
@@ -25,9 +25,9 @@ export const projects: Project[] = [
   {
     id: 'imagex',
     title: 'ImageX',
-    description: 'Lightning-fast image processing and optimization for the modern web.',
+    description: 'Free image editor with the tools you actually need.',
     longDescription:
-      'ImageX is a powerful image processing toolkit designed for developers who need speed without sacrificing quality. It supports batch processing, format conversion, intelligent compression, and real-time transformations. The API-first design makes it easy to integrate into any workflow, whether you are building a CMS, a gallery, or a full-featured media platform.',
+      'ImageX started because I wanted a simple image editor that didn\'t cost money or have a million features I\'d never use. It does the basics really well — resize, crop, filters, batch edits. Built with Rust and WASM so it runs in the browser without feeling slow.',
     tags: ['Python', 'Rust', 'WASM', 'WebGL'],
     links: [
       { label: 'GitHub', url: 'https://github.com/yummyfiles/imagex' },
@@ -37,9 +37,9 @@ export const projects: Project[] = [
   {
     id: 'localcodeai',
     title: 'LocalCodeAI',
-    description: 'A local-first AI coding assistant that runs entirely on your machine.',
+    description: 'AI coding assistant that runs on your own machine.',
     longDescription:
-      'LocalCodeAI brings AI-powered code assistance to your local environment without sending data to the cloud. It uses local LLMs to provide intelligent code completion, refactoring suggestions, and natural language queries about your codebase. Privacy-first, offline-capable, and customizable to your workflow.',
+      'LocalCodeAI is an experimental project where I\'m building a coding assistant that runs locally using Ollama. No data leaves your computer. It can do code completion, answer questions about your code, and suggest refactors. Still a work in progress.',
     tags: ['Rust', 'Ollama', 'TypeScript', 'Local LLM'],
     links: [],
     status: 'in-progress',
@@ -47,9 +47,9 @@ export const projects: Project[] = [
   {
     id: 'void',
     title: 'VOID - Local AI Chat',
-    description: 'A minimal, private, local AI chat interface for your desktop.',
+    description: 'Minimal desktop chat app for local AI models.',
     longDescription:
-      'VOID is a lightweight desktop application that gives you a clean, distraction-free chat interface to interact with local AI models. No accounts, no telemetry, no cloud dependency. Just you and the model, running entirely offline with support for multiple backends like Ollama and llama.cpp.',
+      'VOID is a simple chat interface for talking to local AI models. No sign up, no cloud, no telemetry. Just open it and start chatting. Supports Ollama and llama.cpp. Built it because I wanted something clean that just worked.',
     tags: ['Electron', 'React', 'Ollama', 'TypeScript'],
     links: [],
     status: 'in-progress',
