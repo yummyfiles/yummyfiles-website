@@ -18,6 +18,8 @@ export const techStack: TechItem[] = [
   { name: 'VS Code', category: 'Tools', icon: 'vscode' },
   { name: 'Android Studio', category: 'Tools', icon: 'android' },
   { name: 'Electron', category: 'Frontend', icon: 'electron' },
+  { name: 'Kotlin', category: 'Languages', icon: 'kotlin' },
+  { name: 'Jetpack Compose', category: 'Frontend', icon: 'jetpackcompose' },
 ]
 
 export const categories = ['Languages', 'Frontend', 'Backend', 'Tools'] as const
