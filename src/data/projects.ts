@@ -16,7 +16,7 @@ export const projects: Project[] = [
     description: 'Offline music player focused on speed and simplicity.',
     longDescription:
       'MusicX is an offline music player I built because I was tired of ads and bloated apps. It plays your local files, makes playlists, and just works. No accounts, no internet needed. Working on a v2 with some new ideas.',
-    tags: ['React', 'TypeScript', 'Node.js', 'Audio'],
+    tags: ['Gradle', 'Kotlin', 'Jetpack Compose', 'Java'],
     links: [
       { label: 'GitHub', url: 'https://github.com/yummyfiles/MusicX' },
     ],
