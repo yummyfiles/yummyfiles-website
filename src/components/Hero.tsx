@@ -19,7 +19,7 @@ export default function Hero() {
         </ScrollReveal>
 
         <ScrollReveal delay={0.1}>
-          <h1 className="text-6xl sm:text-7xl md:text-8xl font-bold tracking-tight leading-none mb-6 bg-gradient-to-b from-white to-white/60 bg-clip-text text-transparent">
+          <h1 className="text-6xl sm:text-7xl md:text-8xl font-bold tracking-tight leading-none mb-6 text-white">
             YUMMYFILES // DEV
           </h1>
         </ScrollReveal>
