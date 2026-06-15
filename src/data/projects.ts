@@ -23,6 +23,16 @@ export const projects: Project[] = [
     status: 'completed',
   },
   {
+    id: 'localcodeai',
+    title: 'LocalCodeAI',
+    description: 'AI coding assistant that runs on your own machine.',
+    longDescription:
+      'LocalCodeAI is an experimental project where I\'m building a coding assistant that runs locally using Ollama. No data leaves your computer. It can do code completion, answer questions about your code, and suggest refactors. Still a work in progress.',
+    tags: ['Rust', 'Ollama', 'TypeScript', 'Local LLM'],
+    links: [],
+    status: 'in-progress',
+  },
+  {
     id: 'imagex',
     title: 'ImageX',
     description: 'Free image editor with the tools you actually need.',
@@ -32,16 +42,6 @@ export const projects: Project[] = [
     links: [
       { label: 'GitHub', url: 'https://github.com/yummyfiles/imagex' },
     ],
-    status: 'completed',
-  },
-  {
-    id: 'localcodeai',
-    title: 'LocalCodeAI',
-    description: 'AI coding assistant that runs on your own machine.',
-    longDescription:
-      'LocalCodeAI is an experimental project where I\'m building a coding assistant that runs locally using Ollama. No data leaves your computer. It can do code completion, answer questions about your code, and suggest refactors. Still a work in progress.',
-    tags: ['Rust', 'Ollama', 'TypeScript', 'Local LLM'],
-    links: [],
     status: 'in-progress',
   },
   {
