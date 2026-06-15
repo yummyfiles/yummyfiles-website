@@ -15,4 +15,9 @@ export const socialLinks: SocialLink[] = [
     url: 'https://www.youtube.com/@TheWolfPack123',
     icon: 'youtube',
   },
+  {
+    name: 'X',
+    url: 'https://x.com/JustinPlayzReal',
+    icon: 'x',
+  },
 ]
