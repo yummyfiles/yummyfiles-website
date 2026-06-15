@@ -16,7 +16,7 @@ function ProjectCard({ project, index }: { project: Project; index: number }) {
         viewport={{ once: true, margin: '-50px' }}
         transition={{ duration: 0.5, delay: index * 0.1, ease: [0.25, 0.1, 0.25, 1] }}
         onClick={() => setSelected(project)}
-        className="group relative text-left w-full bg-neutral-900 border border-white/5 rounded-2xl p-6 sm:p-8 hover:border-white/20 hover:shadow-[0_0_32px_rgba(255,255,255,0.04)] transition-all duration-300"
+        className="group relative text-left w-full bg-black border border-white/5 rounded-2xl p-6 sm:p-8 hover:border-white/20 transition-all duration-300"
       >
         <div className="flex items-start justify-between mb-4">
           <span

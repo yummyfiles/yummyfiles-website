@@ -25,7 +25,7 @@ export default function Modal({ project, onClose }: ModalProps) {
           exit={{ opacity: 0, scale: 0.95, y: 20 }}
           transition={{ duration: 0.3, ease: [0.25, 0.1, 0.25, 1] }}
           onClick={(e) => e.stopPropagation()}
-          className="relative w-full max-w-lg bg-neutral-900 border border-white/10 rounded-2xl p-8"
+          className="relative w-full max-w-lg bg-black border border-white/10 rounded-2xl p-8"
         >
           <button
             onClick={onClose}

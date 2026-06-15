@@ -93,7 +93,7 @@ export default function Contact() {
                       href={link.url}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="group flex items-center gap-2 px-4 py-2 bg-neutral-900 border border-white/5 rounded-xl hover:border-white/20 hover:shadow-[0_0_24px_rgba(255,255,255,0.04)] transition-all duration-200"
+                      className="group flex items-center gap-2 px-4 py-2 bg-black border border-white/5 rounded-xl hover:border-white/20 transition-all duration-200"
                     >
                       {link.icon === 'github' && (
                         <svg className="w-4 h-4 text-white/50 group-hover:text-white transition-colors" viewBox="0 0 24 24" fill="currentColor">

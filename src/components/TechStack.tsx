@@ -26,7 +26,7 @@ function TechIcon({ name, icon }: { name: string; icon: string }) {
   return (
     <motion.div
       whileHover={{ scale: 1.05 }}
-      className="group flex flex-col items-center gap-2 p-4 rounded-xl bg-neutral-900 border border-white/5 hover:border-white/20 hover:shadow-[0_0_24px_rgba(255,255,255,0.04)] transition-all duration-200 cursor-default"
+      className="group flex flex-col items-center gap-2 p-4 rounded-xl bg-black border border-white/5 hover:border-white/20 transition-all duration-200 cursor-default"
     >
       <div className="w-12 h-12 rounded-lg bg-white/5 group-hover:bg-white/10 flex items-center justify-center text-xl text-white/70 transition-colors">
         {icons[icon] || name.slice(0, 2)}

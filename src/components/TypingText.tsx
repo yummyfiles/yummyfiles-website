@@ -35,7 +35,6 @@ export default function TypingText() {
   return (
     <span className="relative">
       {displayText}
-      <span className="inline-block w-[3px] h-[1em] bg-white ml-1 align-middle animate-pulse" />
     </span>
   )
 }
