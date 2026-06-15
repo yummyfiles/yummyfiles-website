@@ -35,13 +35,11 @@ export const projects: Project[] = [
   {
     id: 'imagex',
     title: 'ImageX',
-    description: 'Free image editor with the tools you actually need.',
+    description: 'A free Photoshop clone that\'s easy to use but has every feature Photoshop does.',
     longDescription:
-      'ImageX started because I wanted a simple image editor that didn\'t cost money or have a million features I\'d never use. It does the basics really well — resize, crop, filters, batch edits. Building it with Electron so it runs as a desktop app.',
+      'ImageX started because I wanted a Photoshop clone that didn\'t cost money. Something easy to use but with every feature Photoshop has. Building it with Electron so it runs as a desktop app.',
     tags: ['Python', 'Electron', 'TypeScript'],
-    links: [
-      { label: 'GitHub', url: 'https://github.com/yummyfiles/imagex' },
-    ],
+    links: [],
     status: 'in-progress',
   },
   {
