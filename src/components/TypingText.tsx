@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 
-const words = ['building apps', 'making cool stuff', 'learning new things', 'shipping projects']
+const words = ['Making cool stuff', 'Making free software', 'Always working on stuff']
 
 export default function TypingText() {
   const [wordIndex, setWordIndex] = useState(0)
