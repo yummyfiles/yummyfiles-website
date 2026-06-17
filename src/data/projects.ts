@@ -60,6 +60,6 @@ export const projects: Project[] = [
       'Static is a full-featured Discord clone I\'m planning to build from the ground up. Real-time messaging, voice channels, server management, and more — all built with modern web technologies.',
     tags: ['React', 'TypeScript', 'WebSocket', 'Go'],
     links: [],
-    status: 'planned',
+    status: 'in-progress',
   },
 ]
