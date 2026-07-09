@@ -65,9 +65,9 @@ export const projects: Project[] = [
   {
     id: 'stylerx',
     title: 'StylerX',
-    description: 'Live theme engine for OBS Studio — tweak every color and panel in real time.',
+    description: 'Make OBS Studio look how you want — theme it in real time.',
     longDescription:
-      'StylerX is an OBS Studio plugin that lets you change the entire look of OBS in real time. Every color, panel, button, and UI element can be tweaked while OBS is running with instant feedback. Features a live color picker (20+ UI elements), raw QSS editor with syntax highlighting, widget inspector, JSON theme save/export/import, and a Python CLI for installs. Written in C++17 with Qt6.',
+      'OBS Studio plugin that lets you change the whole look of it while it\'s running. Every color, panel, button — tweak it all instantly. Comes with a live color picker, raw CSS editor, widget inspector, theme save/export, and a Python CLI. Written in C++17 with Qt6.',
     tags: ['C++', 'Qt6', 'OBS Studio', 'CMake', 'Python'],
     links: [
       { label: 'GitHub', url: 'https://github.com/yummyfiles/StylerX-Styler_for_OBS_Studio' },
