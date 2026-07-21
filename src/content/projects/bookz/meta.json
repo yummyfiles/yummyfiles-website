@@ -1,0 +1,26 @@
+{
+  "slug": "bookz",
+  "title": "Bookz",
+  "tagline": "Offline PDF book reader",
+  "description": "Offline PDF book reader",
+  "longDescription": "Read PDF books offline. Clean reading experience with bookmarks and annotations.",
+  "logo": "📚",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin"
+  ],
+  "tags": [
+    "pdf",
+    "reader",
+    "books",
+    "offline"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

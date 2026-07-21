@@ -1,0 +1,26 @@
+{
+  "slug": "ringer",
+  "title": "Ringer",
+  "tagline": "Ringtone sounds app",
+  "description": "Ringtone sounds app",
+  "longDescription": "Browse, preview, and set ringtones. Thousands of sounds to choose from.",
+  "logo": "🔔",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin"
+  ],
+  "tags": [
+    "ringtone",
+    "sounds",
+    "audio",
+    "customization"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

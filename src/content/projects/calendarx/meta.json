@@ -1,0 +1,25 @@
+{
+  "slug": "calendarx",
+  "title": "Calendar",
+  "tagline": "Calendar app",
+  "description": "Calendar app",
+  "longDescription": "A clean calendar for managing your schedule. Events, reminders, and views.",
+  "logo": "📅",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin"
+  ],
+  "tags": [
+    "calendar",
+    "schedule",
+    "productivity"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

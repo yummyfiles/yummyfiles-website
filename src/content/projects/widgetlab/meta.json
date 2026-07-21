@@ -1,0 +1,25 @@
+{
+  "slug": "widgetlab",
+  "title": "WidgetLab",
+  "tagline": "Widget maker app",
+  "description": "Widget maker app",
+  "longDescription": "Create custom home screen widgets. Design them exactly how you want.",
+  "logo": "🧩",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin"
+  ],
+  "tags": [
+    "widgets",
+    "customization",
+    "home-screen"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

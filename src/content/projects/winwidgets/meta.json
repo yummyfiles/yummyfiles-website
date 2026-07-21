@@ -1,0 +1,27 @@
+{
+  "slug": "winwidgets",
+  "title": "WinWidgets",
+  "tagline": "Rainmeter-like app",
+  "description": "Rainmeter-like app",
+  "longDescription": "Desktop widgets for Windows. Lightweight, customizable, and beautiful.",
+  "logo": "🖥️",
+  "status": "planned",
+  "category": "Software",
+  "platforms": [
+    "Windows"
+  ],
+  "techStack": [
+    "C#",
+    "WPF"
+  ],
+  "tags": [
+    "widgets",
+    "desktop",
+    "rainmeter",
+    "customization"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

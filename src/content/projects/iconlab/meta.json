@@ -1,0 +1,25 @@
+{
+  "slug": "iconlab",
+  "title": "IconLab",
+  "tagline": "Custom app icon maker",
+  "description": "Custom app icon maker",
+  "longDescription": "Create custom icons for all your apps. Design from scratch or use templates.",
+  "logo": "🎨",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin"
+  ],
+  "tags": [
+    "icons",
+    "customization",
+    "design"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

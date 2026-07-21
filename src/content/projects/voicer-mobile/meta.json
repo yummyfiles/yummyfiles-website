@@ -1,0 +1,26 @@
+{
+  "slug": "voicer-mobile",
+  "title": "Voicer Mobile",
+  "tagline": "Voicer mobile",
+  "description": "Voicer mobile",
+  "longDescription": "The mobile version of Voicer. Transform your voice in real time.",
+  "logo": "🎤",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin"
+  ],
+  "tags": [
+    "voice",
+    "effects",
+    "audio",
+    "mobile"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

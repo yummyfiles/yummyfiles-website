@@ -1,0 +1,26 @@
+{
+  "slug": "simplyvpn",
+  "title": "SimplyVPN",
+  "tagline": "VPN app",
+  "description": "VPN app",
+  "longDescription": "A simple, fast VPN. No logs, no fuss. Just connect and browse privately.",
+  "logo": "🛡️",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin"
+  ],
+  "tags": [
+    "vpn",
+    "privacy",
+    "security",
+    "networking"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

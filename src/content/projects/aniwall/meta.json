@@ -1,0 +1,26 @@
+{
+  "slug": "aniwall",
+  "title": "AniWall",
+  "tagline": "Animated wallpaper maker",
+  "description": "Animated wallpaper maker",
+  "longDescription": "Create animated live wallpapers from videos, GIFs, or animations.",
+  "logo": "🌌",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin"
+  ],
+  "tags": [
+    "wallpaper",
+    "animated",
+    "live",
+    "customization"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

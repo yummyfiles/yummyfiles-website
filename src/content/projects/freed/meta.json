@@ -1,0 +1,26 @@
+{
+  "slug": "freed",
+  "title": "Freed",
+  "tagline": "Mental health cope app",
+  "description": "Mental health cope app",
+  "longDescription": "Tools for mental wellness. Breathing exercises, mood tracking, and coping strategies.",
+  "logo": "🧘",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin"
+  ],
+  "tags": [
+    "mental-health",
+    "wellness",
+    "meditation",
+    "coping"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

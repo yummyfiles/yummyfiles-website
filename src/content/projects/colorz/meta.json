@@ -1,0 +1,26 @@
+{
+  "slug": "colorz",
+  "title": "Colorz",
+  "tagline": "Coloring app",
+  "description": "Coloring app",
+  "longDescription": "Color in beautiful templates or draw freely. Relax and create.",
+  "logo": "🖍️",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin"
+  ],
+  "tags": [
+    "coloring",
+    "art",
+    "creative",
+    "relaxation"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

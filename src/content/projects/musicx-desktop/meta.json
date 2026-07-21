@@ -1,0 +1,29 @@
+{
+  "slug": "musicx-desktop",
+  "title": "MusicX Desktop",
+  "tagline": "MusicX desktop",
+  "description": "MusicX desktop",
+  "longDescription": "The desktop version of MusicX. Play your local music library on your computer.",
+  "logo": "🎵",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "techStack": [
+    "Electron",
+    "TypeScript"
+  ],
+  "tags": [
+    "music",
+    "player",
+    "offline",
+    "desktop"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

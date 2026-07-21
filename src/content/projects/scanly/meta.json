@@ -1,0 +1,26 @@
+{
+  "slug": "scanly",
+  "title": "Scanly",
+  "tagline": "QR code scanner",
+  "description": "QR code scanner",
+  "longDescription": "Scan QR codes and barcodes instantly. Fast, accurate, and lightweight.",
+  "logo": "📷",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin"
+  ],
+  "tags": [
+    "qr-code",
+    "scanner",
+    "barcode",
+    "utility"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "klipix",
+  "title": "Klipix",
+  "tagline": "Klipix mobile",
+  "description": "Klipix mobile",
+  "longDescription": "The mobile version of Klipix, bringing powerful features to your phone.",
+  "logo": "📱",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin",
+    "Jetpack Compose"
+  ],
+  "tags": [
+    "mobile",
+    "utility"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

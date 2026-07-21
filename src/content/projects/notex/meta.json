@@ -1,0 +1,26 @@
+{
+  "slug": "notex",
+  "title": "NoteX",
+  "tagline": "Notes app",
+  "description": "Notes app",
+  "longDescription": "A clean, fast notes app for Android. Write, organize, and find your notes instantly.",
+  "logo": "📝",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin",
+    "Jetpack Compose"
+  ],
+  "tags": [
+    "notes",
+    "productivity",
+    "offline"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

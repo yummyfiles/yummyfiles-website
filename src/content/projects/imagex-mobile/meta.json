@@ -1,0 +1,25 @@
+{
+  "slug": "imagex-mobile",
+  "title": "ImageX Mobile",
+  "tagline": "ImageX for mobile",
+  "description": "ImageX for mobile",
+  "longDescription": "The mobile version of ImageX. Edit photos on your phone with powerful tools.",
+  "logo": "🖼️",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin"
+  ],
+  "tags": [
+    "image-editor",
+    "photo",
+    "mobile"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

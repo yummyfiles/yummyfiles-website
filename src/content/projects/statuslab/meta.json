@@ -1,0 +1,25 @@
+{
+  "slug": "statuslab",
+  "title": "StatusLab",
+  "tagline": "Custom status bar app",
+  "description": "Custom status bar app",
+  "longDescription": "Customize your status bar. Change colors, icons, and layout.",
+  "logo": "📊",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin"
+  ],
+  "tags": [
+    "status-bar",
+    "customization",
+    "ui"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

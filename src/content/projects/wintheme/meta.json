@@ -1,0 +1,27 @@
+{
+  "slug": "wintheme",
+  "title": "WinTheme",
+  "tagline": "Custom Windows theme",
+  "description": "Custom Windows theme",
+  "longDescription": "Create and apply custom Windows themes. Full control over every visual element.",
+  "logo": "🎨",
+  "status": "planned",
+  "category": "Software",
+  "platforms": [
+    "Windows"
+  ],
+  "techStack": [
+    "C#",
+    "WPF"
+  ],
+  "tags": [
+    "windows",
+    "theme",
+    "customization",
+    "ui"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

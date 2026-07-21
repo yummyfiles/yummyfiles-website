@@ -1,0 +1,26 @@
+{
+  "slug": "lens",
+  "title": "Lens",
+  "tagline": "Camera app",
+  "description": "Camera app",
+  "longDescription": "A feature-packed camera app with manual controls, filters, and pro modes.",
+  "logo": "📷",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin"
+  ],
+  "tags": [
+    "camera",
+    "photo",
+    "manual",
+    "filters"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

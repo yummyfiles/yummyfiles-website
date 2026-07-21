@@ -1,0 +1,26 @@
+{
+  "slug": "porthub",
+  "title": "PortHub",
+  "tagline": "PC web port launcher",
+  "description": "PC web port launcher",
+  "longDescription": "Launch web apps and local servers from your desktop. Manage ports and shortcuts.",
+  "logo": "🔌",
+  "status": "planned",
+  "category": "Developer Tools",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin"
+  ],
+  "tags": [
+    "ports",
+    "localhost",
+    "development",
+    "launcher"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

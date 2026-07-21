@@ -1,0 +1,27 @@
+{
+  "slug": "voicer",
+  "title": "Voicer",
+  "tagline": "Voicemod-like app",
+  "description": "Voicemod-like app",
+  "longDescription": "Change your voice in real time. Use fun voice effects in calls and streams.",
+  "logo": "🎤",
+  "status": "planned",
+  "category": "Software",
+  "platforms": [
+    "Windows"
+  ],
+  "techStack": [
+    "C++",
+    "Qt6"
+  ],
+  "tags": [
+    "voice",
+    "effects",
+    "audio",
+    "real-time"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

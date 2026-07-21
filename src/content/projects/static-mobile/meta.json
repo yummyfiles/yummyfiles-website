@@ -1,0 +1,28 @@
+{
+  "slug": "static-mobile",
+  "title": "Static Mobile",
+  "tagline": "Static mobile",
+  "description": "Static mobile",
+  "longDescription": "The mobile companion to Static. Stay connected on the go.",
+  "logo": "⚡",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin",
+    "React",
+    "TypeScript"
+  ],
+  "tags": [
+    "discord",
+    "chat",
+    "mobile",
+    "messaging"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

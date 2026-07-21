@@ -1,0 +1,25 @@
+{
+  "slug": "finderx",
+  "title": "FinderX",
+  "tagline": "Bluetooth finder app",
+  "description": "Bluetooth finder app",
+  "longDescription": "Find your lost Bluetooth devices. Scan, locate, and track nearby Bluetooth devices.",
+  "logo": "📡",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin"
+  ],
+  "tags": [
+    "bluetooth",
+    "finder",
+    "utility"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

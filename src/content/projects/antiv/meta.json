@@ -1,0 +1,26 @@
+{
+  "slug": "antiv",
+  "title": "AntiV",
+  "tagline": "Antivirus",
+  "description": "Antivirus",
+  "longDescription": "Protect your device from malware. Scan, detect, and remove threats.",
+  "logo": "🛡️",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin"
+  ],
+  "tags": [
+    "antivirus",
+    "security",
+    "malware",
+    "protection"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "weathered",
+  "title": "Weathered",
+  "tagline": "Weather app",
+  "description": "Weather app",
+  "longDescription": "Beautiful weather forecasts. Current conditions, hourly, and 7-day predictions.",
+  "logo": "🌤️",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin"
+  ],
+  "tags": [
+    "weather",
+    "forecast",
+    "utility"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

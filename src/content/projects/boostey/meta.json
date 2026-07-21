@@ -1,0 +1,26 @@
+{
+  "slug": "boostey",
+  "title": "Boostey",
+  "tagline": "Performance booster",
+  "description": "Performance booster",
+  "longDescription": "Boost your device performance. Clear memory, manage apps, and keep things fast.",
+  "logo": "⚡",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android",
+    "Windows"
+  ],
+  "techStack": [
+    "Kotlin"
+  ],
+  "tags": [
+    "performance",
+    "optimization",
+    "utility"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}

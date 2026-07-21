@@ -1,0 +1,26 @@
+{
+  "slug": "sfxbox",
+  "title": "SFXBox",
+  "tagline": "Sound effect / Soundboard app",
+  "description": "Sound effect / Soundboard app",
+  "longDescription": "Play sound effects instantly. Build custom soundboards with your favorite sounds.",
+  "logo": "🔊",
+  "status": "planned",
+  "category": "Apps",
+  "platforms": [
+    "Android"
+  ],
+  "techStack": [
+    "Kotlin"
+  ],
+  "tags": [
+    "soundboard",
+    "sfx",
+    "audio",
+    "effects"
+  ],
+  "links": [],
+  "createdAt": "2025-07-21",
+  "updatedAt": "2025-07-21",
+  "featured": false
+}
