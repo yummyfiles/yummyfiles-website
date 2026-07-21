@@ -2,13 +2,26 @@ import { useParams, Link, Navigate } from 'react-router-dom'
 import { Helmet } from 'react-helmet-async'
 import { useMemo } from 'react'
 import { marked } from 'marked'
+import { Renderer } from 'marked'
 import { getProjectBySlug } from '@/data/projects'
 import ScrollReveal from '@/components/ScrollReveal'
 
-marked.setOptions({
-  gfm: true,
-  breaks: false,
-})
+function slugify(text: string): string {
+  return text
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .trim()
+}
+
+const renderer = new Renderer()
+renderer.heading = function ({ text, depth }: { text: string; depth: number }) {
+  const id = slugify(text.replace(/<[^>]+>/g, ''))
+  return `<h${depth} id="${id}">${text}</h${depth}>`
+}
+
+marked.setOptions({ gfm: true, breaks: false, renderer })
 
 export default function ProjectDocsPage() {
   const { slug } = useParams<{ slug: string }>()
