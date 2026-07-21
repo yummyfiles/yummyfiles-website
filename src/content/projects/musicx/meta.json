@@ -1,50 +1,33 @@
 {
-    "slug":  "musicx",
-    "title":  "MusicX",
-    "tagline":  "Offline music player focused on speed and simplicity.",
-    "description":  "Offline music player focused on speed and simplicity.",
-    "longDescription":  "MusicX is an offline music player I built because I was tired of ads and bloated apps. It plays your local files, makes playlists, and just works. No accounts, no internet needed. Working on a v2 with some new ideas.",
-    "logo":  "",
-    "version":  "1.0.0",
-    "status":  "completed",
-    "license":  "GPL-3.0",
-    "category":  "Apps",
-    "platforms":  [
-                      "Android"
-                  ],
-    "techStack":  [
-                      "Kotlin",
-                      "Jetpack Compose",
-                      "Java",
-                      "Gradle"
-                  ],
-    "tags":  [
-                 "music",
-                 "offline",
-                 "player",
-                 "android",
-                 "local-files"
-             ],
-    "features":  [
-                     "Play local audio files",
-                     "Create and manage playlists",
-                     "Offline-first with no internet required",
-                     "Clean, minimal interface",
-                     "Fast and lightweight"
-                 ],
-    "links":  [
-                  {
-                      "label":  "GitHub",
-                      "url":  "https://github.com/yummyfiles/MusicX"
-                  }
-              ],
-    "github":  {
-                   "url":  "https://github.com/yummyfiles/MusicX"
-               },
-    "createdAt":  "2024-01-15",
-    "updatedAt":  "2024-06-20",
-    "featured":  true,
-    "relatedProjects":  [
-                            "stylerx"
-                        ]
+  "slug": "musicx",
+  "title": "MusicX",
+  "tagline": "Offline music player focused on speed and simplicity.",
+  "description": "Offline music player focused on speed and simplicity.",
+  "longDescription": "MusicX is an offline music player I built because I was tired of ads and bloated apps. It plays your local files, makes playlists, and just works. No accounts, no internet needed. Working on a v2 with some new ideas.",
+  "logo": "",
+  "version": "1.0.0",
+  "status": "completed",
+  "license": "GPL-3.0",
+  "category": "Apps",
+  "platforms": ["Android"],
+  "techStack": ["Kotlin", "Jetpack Compose", "Java", "Gradle"],
+  "tags": ["music", "offline", "player", "android", "local-files"],
+  "features": [
+    "Play local audio files",
+    "Create and manage playlists",
+    "Offline-first with no internet required",
+    "Clean, minimal interface",
+    "Fast and lightweight"
+  ],
+  "links": [
+    { "label": "GitHub", "url": "https://github.com/yummyfiles/MusicX" }
+  ],
+  "github": {
+    "url": "https://github.com/yummyfiles/MusicX"
+  },
+  "createdAt": "2024-01-15",
+  "updatedAt": "2024-06-20",
+  "featured": true,
+  "relatedProjects": ["stylerx"],
+  "wiki": "<div align=\"center\">\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/yummyfiles/MusicX/main/MusicX/banner.svg\">\n  <img src=\"https://raw.githubusercontent.com/yummyfiles/MusicX/main/MusicX/banner.svg\" alt=\"MusicX\" width=\"100%\" />\n</picture>\n\n<br>\n\n<a href=\"https://github.com/yummyfiles/MusicX/releases/latest\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://img.shields.io/badge/DOWNLOAD_APK-000000?style=for-the-badge&logo=android&logoColor=white&labelColor=000000&color=000000\">\n    <img src=\"https://img.shields.io/badge/DOWNLOAD_APK-ffffff?style=for-the-badge&logo=android&logoColor=000000&labelColor=ffffff&color=ffffff\" alt=\"Download APK\" />\n  </picture>\n</a>\n\n<br><br>\n\n<p align=\"center\">\nNo ads. No subscriptions. No accounts.\n<br>\nNo Start Free Trial button stalking you.\n</p>\n\n</div>\n\n---\n\n## Why I Built This\n\nMost music apps are doing the absolute most.\n\nAds.\nPremium popups.\nSign in to continue.\nUpgrade to unlock basic functionality.\n\nI just wanted to press play and hear music.\n\nSo I made MusicX.\n\nIt opens.\nIt scans your songs.\nIt plays them.\n\n---\n\n## What You Get\n\n- Fully offline playback\n- Local music scanning\n- Fast search for songs, artists, and metadata\n- Playlist support\n- Lyrics support through embedded lyrics and LRCLIB\n- Background playback\n- Lock screen and notification controls\n- Clean, minimal UI\n- Advanced color customization\n\nNo streaming.\nNo cloud.\nNo tracking.\nNo account creation side quest.\n\n---\n\n## Customization\n\nYou can tweak pretty much every color in the app — backgrounds, text, accents, player UI, buttons, and more.\n\nIf you want your music player pure black and minimal, you can.\n\nIf you want it looking like a neon science experiment, you can also do that.\n\n---\n\n## How It Works\n\n- Scans your music using Android MediaStore\n- Everything stays on your device\n- Built with Kotlin and Jetpack Compose\n- Uses Media3 / ExoPlayer for playback\n\n---\n\n## FAQ\n\n**Does it stream music?**\nNo. Local files only.\n\n**Does it need internet?**\nNope.\n\n**Are there ads?**\nNever.\n\n**Do I need an account?**\nAbsolutely not.\n\n**Is my music uploaded anywhere?**\nNo. It stays on your device.\n\n---\n\n## The Goal\n\nOpen app, pick song, play music.\n\nThat's it.\n\nNo popups.\nNo paywalls.\nNo emotional manipulation to buy premium."
 }

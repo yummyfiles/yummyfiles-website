@@ -47,4 +47,5 @@ export interface ProjectMeta {
   updatedAt: string
   featured?: boolean
   relatedProjects?: string[]
+  wiki?: string
 }

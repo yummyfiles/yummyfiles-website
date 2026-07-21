@@ -54,3 +54,104 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: #555555;
 }
+
+.prose-custom {
+  color: rgba(255, 255, 255, 0.6);
+  line-height: 1.8;
+}
+
+.prose-custom h2 {
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.prose-custom h3 {
+  color: #fff;
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.prose-custom p {
+  margin-bottom: 1rem;
+}
+
+.prose-custom strong {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.prose-custom a {
+  color: rgba(255, 255, 255, 0.7);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-color: rgba(255, 255, 255, 0.2);
+  transition: color 0.2s, text-decoration-color 0.2s;
+}
+
+.prose-custom a:hover {
+  color: #fff;
+  text-decoration-color: rgba(255, 255, 255, 0.5);
+}
+
+.prose-custom ul,
+.prose-custom ol {
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+}
+
+.prose-custom li {
+  margin-bottom: 0.35rem;
+}
+
+.prose-custom ul li::marker {
+  color: rgba(255, 255, 255, 0.2);
+}
+
+.prose-custom ol li::marker {
+  color: rgba(255, 255, 255, 0.3);
+}
+
+.prose-custom hr {
+  border: none;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  margin: 2rem 0;
+}
+
+.prose-custom img {
+  max-width: 100%;
+  border-radius: 0.75rem;
+}
+
+.prose-custom blockquote {
+  border-left: 3px solid rgba(255, 255, 255, 0.15);
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+  color: rgba(255, 255, 255, 0.45);
+}
+
+.prose-custom code {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 0.15rem 0.4rem;
+  border-radius: 0.25rem;
+  font-size: 0.875em;
+}
+
+.prose-custom pre {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 0.75rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+}
+
+.prose-custom pre code {
+  background: none;
+  padding: 0;
+}

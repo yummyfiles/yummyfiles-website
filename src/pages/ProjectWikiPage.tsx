@@ -27,24 +27,37 @@ export default function ProjectWikiPage() {
               {project.title}
             </Link>
           </ScrollReveal>
+
           <ScrollReveal delay={0.1}>
-            <h1 className="text-3xl sm:text-4xl font-bold tracking-tight mb-4">Wiki</h1>
-            <p className="text-white/50 mb-8 max-w-xl">
-              The wiki for {project.title} will be available here. Check back soon.
-            </p>
-            <div className="flex gap-3">
-              {project.github && (
-                <a
-                  href={`${project.github.url}/wiki`}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="px-5 py-2 bg-white text-black text-sm font-medium rounded-full hover:bg-white/90 transition-all duration-200"
-                >
-                  View Wiki on GitHub
-                </a>
-              )}
-            </div>
+            <h1 className="text-3xl sm:text-4xl font-bold tracking-tight mb-8">Wiki</h1>
           </ScrollReveal>
+
+          {project.wiki ? (
+            <ScrollReveal delay={0.15}>
+              <div
+                className="prose-custom max-w-4xl"
+                dangerouslySetInnerHTML={{ __html: project.wiki }}
+              />
+            </ScrollReveal>
+          ) : (
+            <ScrollReveal delay={0.15}>
+              <p className="text-white/50 mb-8 max-w-xl">
+                The wiki for {project.title} will be available here. Check back soon.
+              </p>
+              <div className="flex gap-3">
+                {project.github && (
+                  <a
+                    href={`${project.github.url}/wiki`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="px-5 py-2 bg-white text-black text-sm font-medium rounded-full hover:bg-white/90 transition-all duration-200"
+                  >
+                    View Wiki on GitHub
+                  </a>
+                )}
+              </div>
+            </ScrollReveal>
+          )}
         </div>
       </section>
     </>
