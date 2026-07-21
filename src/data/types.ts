@@ -51,4 +51,5 @@ export interface ProjectMeta {
     sidebar?: string
     content: string
   }
+  docs?: string
 }
