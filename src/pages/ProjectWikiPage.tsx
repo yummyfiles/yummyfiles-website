@@ -34,10 +34,22 @@ export default function ProjectWikiPage() {
 
           {project.wiki ? (
             <ScrollReveal delay={0.15}>
-              <div
-                className="prose-custom max-w-4xl"
-                dangerouslySetInnerHTML={{ __html: project.wiki }}
-              />
+              <div className="flex flex-col lg:flex-row gap-10">
+                {project.wiki.sidebar && (
+                  <aside className="lg:w-64 shrink-0">
+                    <div
+                      className="lg:sticky lg:top-24 prose-custom"
+                      dangerouslySetInnerHTML={{ __html: project.wiki.sidebar }}
+                    />
+                  </aside>
+                )}
+                <div className="flex-1 min-w-0">
+                  <div
+                    className="prose-custom"
+                    dangerouslySetInnerHTML={{ __html: project.wiki.content }}
+                  />
+                </div>
+              </div>
             </ScrollReveal>
           ) : (
             <ScrollReveal delay={0.15}>

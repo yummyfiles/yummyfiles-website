@@ -155,3 +155,42 @@ body {
   background: none;
   padding: 0;
 }
+
+.prose-custom aside h3 {
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: rgba(255, 255, 255, 0.4);
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+  border: none;
+}
+
+.prose-custom aside p {
+  margin-bottom: 0.5rem;
+}
+
+.prose-custom aside a {
+  text-decoration: none;
+}
+
+.prose-custom aside a:hover {
+  opacity: 0.8;
+}
+
+.prose-custom aside img {
+  border-radius: 0;
+  height: auto;
+}
+
+.prose-custom aside hr {
+  margin: 1rem 0;
+}
+
+.prose-custom aside div[align="center"] img {
+  border-radius: 0;
+}
+
+.prose-custom h2:first-child {
+  margin-top: 0;
+}
