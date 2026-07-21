@@ -1,28 +1,30 @@
 {
-  "slug": "openbrowse",
-  "title": "OpenBrowse",
-  "tagline": "Browser",
-  "description": "Browser",
-  "longDescription": "A fast, open-source browser. Privacy-focused with built-in ad blocking.",
-  "logo": "🌐",
-  "status": "planned",
-  "category": "Apps",
-  "platforms": [
-    "Android",
-    "Windows"
-  ],
-  "techStack": [
-    "Kotlin",
-    "TypeScript"
-  ],
-  "tags": [
-    "browser",
-    "web",
-    "privacy",
-    "open-source"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "openbrowse",
+    "title":  "OpenBrowse",
+    "tagline":  "Browser",
+    "description":  "Browser",
+    "longDescription":  "A fast, open-source browser. Privacy-focused with built-in ad blocking.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Apps",
+    "platforms":  [
+                      "Android",
+                      "Windows"
+                  ],
+    "techStack":  [
+                      "Kotlin",
+                      "TypeScript"
+                  ],
+    "tags":  [
+                 "browser",
+                 "web",
+                 "privacy",
+                 "open-source"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }

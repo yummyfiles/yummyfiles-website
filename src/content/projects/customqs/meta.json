@@ -1,25 +1,27 @@
 {
-  "slug": "customqs",
-  "title": "CustomQS",
-  "tagline": "Custom quick settings app",
-  "description": "Custom quick settings app",
-  "longDescription": "Customize your Android quick settings tiles. Add, remove, and rearrange tiles however you want.",
-  "logo": "⚙️",
-  "status": "planned",
-  "category": "Apps",
-  "platforms": [
-    "Android"
-  ],
-  "techStack": [
-    "Kotlin"
-  ],
-  "tags": [
-    "customization",
-    "quick-settings",
-    "system"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "customqs",
+    "title":  "CustomQS",
+    "tagline":  "Custom quick settings app",
+    "description":  "Custom quick settings app",
+    "longDescription":  "Customize your Android quick settings tiles. Add, remove, and rearrange tiles however you want.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Apps",
+    "platforms":  [
+                      "Android"
+                  ],
+    "techStack":  [
+                      "Kotlin"
+                  ],
+    "tags":  [
+                 "customization",
+                 "quick-settings",
+                 "system"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }

@@ -1,25 +1,27 @@
 {
-  "slug": "volumelab",
-  "title": "VolumeLab",
-  "tagline": "Custom volume style app",
-  "description": "Custom volume style app",
-  "longDescription": "Restyle your volume panel with custom themes and layouts.",
-  "logo": "🔊",
-  "status": "planned",
-  "category": "Apps",
-  "platforms": [
-    "Android"
-  ],
-  "techStack": [
-    "Kotlin"
-  ],
-  "tags": [
-    "volume",
-    "customization",
-    "ui"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "volumelab",
+    "title":  "VolumeLab",
+    "tagline":  "Custom volume style app",
+    "description":  "Custom volume style app",
+    "longDescription":  "Restyle your volume panel with custom themes and layouts.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Apps",
+    "platforms":  [
+                      "Android"
+                  ],
+    "techStack":  [
+                      "Kotlin"
+                  ],
+    "tags":  [
+                 "volume",
+                 "customization",
+                 "ui"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }

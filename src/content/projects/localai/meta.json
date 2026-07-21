@@ -1,26 +1,28 @@
 {
-  "slug": "localai",
-  "title": "LocalAI",
-  "tagline": "Offline AI",
-  "description": "Offline AI",
-  "longDescription": "Run AI models entirely on your device. No internet, no data leaving your phone.",
-  "logo": "🧠",
-  "status": "planned",
-  "category": "Apps",
-  "platforms": [
-    "Android"
-  ],
-  "techStack": [
-    "Kotlin"
-  ],
-  "tags": [
-    "ai",
-    "offline",
-    "privacy",
-    "local"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "localai",
+    "title":  "LocalAI",
+    "tagline":  "Offline AI",
+    "description":  "Offline AI",
+    "longDescription":  "Run AI models entirely on your device. No internet, no data leaving your phone.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Apps",
+    "platforms":  [
+                      "Android"
+                  ],
+    "techStack":  [
+                      "Kotlin"
+                  ],
+    "tags":  [
+                 "ai",
+                 "offline",
+                 "privacy",
+                 "local"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }

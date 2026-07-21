@@ -1,26 +1,28 @@
 {
-  "slug": "iosdroid",
-  "title": "IOSDROID",
-  "tagline": "iOS Launcher",
-  "description": "iOS Launcher",
-  "longDescription": "Make your Android look and feel like iOS. Full iOS experience on Android.",
-  "logo": "🍎",
-  "status": "planned",
-  "category": "Apps",
-  "platforms": [
-    "Android"
-  ],
-  "techStack": [
-    "Kotlin"
-  ],
-  "tags": [
-    "ios",
-    "launcher",
-    "customization",
-    "theme"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "iosdroid",
+    "title":  "IOSDROID",
+    "tagline":  "iOS Launcher",
+    "description":  "iOS Launcher",
+    "longDescription":  "Make your Android look and feel like iOS. Full iOS experience on Android.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Apps",
+    "platforms":  [
+                      "Android"
+                  ],
+    "techStack":  [
+                      "Kotlin"
+                  ],
+    "tags":  [
+                 "ios",
+                 "launcher",
+                 "customization",
+                 "theme"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }

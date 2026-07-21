@@ -1,25 +1,27 @@
 {
-  "slug": "mapx",
-  "title": "MapX",
-  "tagline": "Offline maps app",
-  "description": "Offline maps app",
-  "longDescription": "Navigate without internet. Download maps and use them anywhere, anytime.",
-  "logo": "🗺️",
-  "status": "planned",
-  "category": "Apps",
-  "platforms": [
-    "Android"
-  ],
-  "techStack": [
-    "Kotlin"
-  ],
-  "tags": [
-    "maps",
-    "offline",
-    "navigation"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "mapx",
+    "title":  "MapX",
+    "tagline":  "Offline maps app",
+    "description":  "Offline maps app",
+    "longDescription":  "Navigate without internet. Download maps and use them anywhere, anytime.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Apps",
+    "platforms":  [
+                      "Android"
+                  ],
+    "techStack":  [
+                      "Kotlin"
+                  ],
+    "tags":  [
+                 "maps",
+                 "offline",
+                 "navigation"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }

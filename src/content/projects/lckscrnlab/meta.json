@@ -1,26 +1,28 @@
 {
-  "slug": "lckscrnlab",
-  "title": "LckScrnLab",
-  "tagline": "Custom lock screen maker",
-  "description": "Custom lock screen maker",
-  "longDescription": "Design and create your own lock screen. Full control over layout, colors, and widgets.",
-  "logo": "🔐",
-  "status": "planned",
-  "category": "Apps",
-  "platforms": [
-    "Android",
-    "Windows"
-  ],
-  "techStack": [
-    "Kotlin"
-  ],
-  "tags": [
-    "lock-screen",
-    "customization",
-    "ui"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "lckscrnlab",
+    "title":  "LckScrnLab",
+    "tagline":  "Custom lock screen maker",
+    "description":  "Custom lock screen maker",
+    "longDescription":  "Design and create your own lock screen. Full control over layout, colors, and widgets.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Apps",
+    "platforms":  [
+                      "Android",
+                      "Windows"
+                  ],
+    "techStack":  [
+                      "Kotlin"
+                  ],
+    "tags":  [
+                 "lock-screen",
+                 "customization",
+                 "ui"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }

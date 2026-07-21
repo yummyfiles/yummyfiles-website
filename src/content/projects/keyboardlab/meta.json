@@ -1,25 +1,27 @@
 {
-  "slug": "keyboardlab",
-  "title": "KeyboardLab",
-  "tagline": "Custom keyboard app",
-  "description": "Custom keyboard app",
-  "longDescription": "Build your own keyboard layout and theme. Full customization over every key.",
-  "logo": "⌨️",
-  "status": "planned",
-  "category": "Apps",
-  "platforms": [
-    "Android"
-  ],
-  "techStack": [
-    "Kotlin"
-  ],
-  "tags": [
-    "keyboard",
-    "customization",
-    "input"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "keyboardlab",
+    "title":  "KeyboardLab",
+    "tagline":  "Custom keyboard app",
+    "description":  "Custom keyboard app",
+    "longDescription":  "Build your own keyboard layout and theme. Full customization over every key.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Apps",
+    "platforms":  [
+                      "Android"
+                  ],
+    "techStack":  [
+                      "Kotlin"
+                  ],
+    "tags":  [
+                 "keyboard",
+                 "customization",
+                 "input"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }

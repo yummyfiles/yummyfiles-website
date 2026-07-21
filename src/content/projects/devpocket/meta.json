@@ -1,26 +1,28 @@
 {
-  "slug": "devpocket",
-  "title": "DevPocket",
-  "tagline": "VSCode but for mobile",
-  "description": "VSCode but for mobile",
-  "longDescription": "A full code editor on your phone. Write, edit, and run code on the go.",
-  "logo": "💻",
-  "status": "planned",
-  "category": "Developer Tools",
-  "platforms": [
-    "Android"
-  ],
-  "techStack": [
-    "Kotlin",
-    "TypeScript"
-  ],
-  "tags": [
-    "code-editor",
-    "mobile",
-    "development"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "devpocket",
+    "title":  "DevPocket",
+    "tagline":  "VSCode but for mobile",
+    "description":  "VSCode but for mobile",
+    "longDescription":  "A full code editor on your phone. Write, edit, and run code on the go.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Developer Tools",
+    "platforms":  [
+                      "Android"
+                  ],
+    "techStack":  [
+                      "Kotlin",
+                      "TypeScript"
+                  ],
+    "tags":  [
+                 "code-editor",
+                 "mobile",
+                 "development"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }

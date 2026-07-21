@@ -1,32 +1,50 @@
 {
-  "slug": "musicx",
-  "title": "MusicX",
-  "tagline": "Offline music player focused on speed and simplicity.",
-  "description": "Offline music player focused on speed and simplicity.",
-  "longDescription": "MusicX is an offline music player I built because I was tired of ads and bloated apps. It plays your local files, makes playlists, and just works. No accounts, no internet needed. Working on a v2 with some new ideas.",
-  "logo": "🎵",
-  "version": "1.0.0",
-  "status": "completed",
-  "license": "GPL-3.0",
-  "category": "Apps",
-  "platforms": ["Android"],
-  "techStack": ["Kotlin", "Jetpack Compose", "Java", "Gradle"],
-  "tags": ["music", "offline", "player", "android", "local-files"],
-  "features": [
-    "Play local audio files",
-    "Create and manage playlists",
-    "Offline-first with no internet required",
-    "Clean, minimal interface",
-    "Fast and lightweight"
-  ],
-  "links": [
-    { "label": "GitHub", "url": "https://github.com/yummyfiles/MusicX" }
-  ],
-  "github": {
-    "url": "https://github.com/yummyfiles/MusicX"
-  },
-  "createdAt": "2024-01-15",
-  "updatedAt": "2024-06-20",
-  "featured": true,
-  "relatedProjects": ["stylerx"]
+    "slug":  "musicx",
+    "title":  "MusicX",
+    "tagline":  "Offline music player focused on speed and simplicity.",
+    "description":  "Offline music player focused on speed and simplicity.",
+    "longDescription":  "MusicX is an offline music player I built because I was tired of ads and bloated apps. It plays your local files, makes playlists, and just works. No accounts, no internet needed. Working on a v2 with some new ideas.",
+    "logo":  "",
+    "version":  "1.0.0",
+    "status":  "completed",
+    "license":  "GPL-3.0",
+    "category":  "Apps",
+    "platforms":  [
+                      "Android"
+                  ],
+    "techStack":  [
+                      "Kotlin",
+                      "Jetpack Compose",
+                      "Java",
+                      "Gradle"
+                  ],
+    "tags":  [
+                 "music",
+                 "offline",
+                 "player",
+                 "android",
+                 "local-files"
+             ],
+    "features":  [
+                     "Play local audio files",
+                     "Create and manage playlists",
+                     "Offline-first with no internet required",
+                     "Clean, minimal interface",
+                     "Fast and lightweight"
+                 ],
+    "links":  [
+                  {
+                      "label":  "GitHub",
+                      "url":  "https://github.com/yummyfiles/MusicX"
+                  }
+              ],
+    "github":  {
+                   "url":  "https://github.com/yummyfiles/MusicX"
+               },
+    "createdAt":  "2024-01-15",
+    "updatedAt":  "2024-06-20",
+    "featured":  true,
+    "relatedProjects":  [
+                            "stylerx"
+                        ]
 }

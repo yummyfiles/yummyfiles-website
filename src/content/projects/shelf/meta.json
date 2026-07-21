@@ -1,26 +1,28 @@
 {
-  "slug": "shelf",
-  "title": "Shelf",
-  "tagline": "File manager app",
-  "description": "File manager app",
-  "longDescription": "A clean file manager for Android. Browse, organize, and manage your files.",
-  "logo": "📁",
-  "status": "planned",
-  "category": "Apps",
-  "platforms": [
-    "Android"
-  ],
-  "techStack": [
-    "Kotlin"
-  ],
-  "tags": [
-    "file-manager",
-    "files",
-    "storage",
-    "utility"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "shelf",
+    "title":  "Shelf",
+    "tagline":  "File manager app",
+    "description":  "File manager app",
+    "longDescription":  "A clean file manager for Android. Browse, organize, and manage your files.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Apps",
+    "platforms":  [
+                      "Android"
+                  ],
+    "techStack":  [
+                      "Kotlin"
+                  ],
+    "tags":  [
+                 "file-manager",
+                 "files",
+                 "storage",
+                 "utility"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }

@@ -1,26 +1,28 @@
 {
-  "slug": "foldervault",
-  "title": "FolderVault",
-  "tagline": "Folder locker",
-  "description": "Folder locker",
-  "longDescription": "Lock and protect folders on your desktop. Password-protect any directory.",
-  "logo": "🔐",
-  "status": "planned",
-  "category": "Software",
-  "platforms": [
-    "Windows"
-  ],
-  "techStack": [
-    "C#"
-  ],
-  "tags": [
-    "folder",
-    "lock",
-    "security",
-    "privacy"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "foldervault",
+    "title":  "FolderVault",
+    "tagline":  "Folder locker",
+    "description":  "Folder locker",
+    "longDescription":  "Lock and protect folders on your desktop. Password-protect any directory.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Software",
+    "platforms":  [
+                      "Windows"
+                  ],
+    "techStack":  [
+                      "C#"
+                  ],
+    "tags":  [
+                 "folder",
+                 "lock",
+                 "security",
+                 "privacy"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }

@@ -1,26 +1,28 @@
 {
-  "slug": "measurly",
-  "title": "Measurly",
-  "tagline": "Measuring app",
-  "description": "Measuring app",
-  "longDescription": "Measure real-world objects using your phone camera and sensors.",
-  "logo": "📏",
-  "status": "planned",
-  "category": "Apps",
-  "platforms": [
-    "Android"
-  ],
-  "techStack": [
-    "Kotlin"
-  ],
-  "tags": [
-    "measure",
-    "ruler",
-    "utility",
-    "tools"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "measurly",
+    "title":  "Measurly",
+    "tagline":  "Measuring app",
+    "description":  "Measuring app",
+    "longDescription":  "Measure real-world objects using your phone camera and sensors.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Apps",
+    "platforms":  [
+                      "Android"
+                  ],
+    "techStack":  [
+                      "Kotlin"
+                  ],
+    "tags":  [
+                 "measure",
+                 "ruler",
+                 "utility",
+                 "tools"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }

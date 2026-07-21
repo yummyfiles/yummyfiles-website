@@ -1,26 +1,28 @@
 {
-  "slug": "vidz",
-  "title": "Vidz",
-  "tagline": "Offline video player",
-  "description": "Offline video player",
-  "longDescription": "Play your local videos with a smooth, feature-rich player. No internet needed.",
-  "logo": "🎬",
-  "status": "planned",
-  "category": "Apps",
-  "platforms": [
-    "Android"
-  ],
-  "techStack": [
-    "Kotlin"
-  ],
-  "tags": [
-    "video",
-    "player",
-    "offline",
-    "media"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "vidz",
+    "title":  "Vidz",
+    "tagline":  "Offline video player",
+    "description":  "Offline video player",
+    "longDescription":  "Play your local videos with a smooth, feature-rich player. No internet needed.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Apps",
+    "platforms":  [
+                      "Android"
+                  ],
+    "techStack":  [
+                      "Kotlin"
+                  ],
+    "tags":  [
+                 "video",
+                 "player",
+                 "offline",
+                 "media"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }

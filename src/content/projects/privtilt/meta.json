@@ -1,25 +1,27 @@
 {
-  "slug": "privtilt",
-  "title": "PrivTilt",
-  "tagline": "Privacy screen app",
-  "description": "Privacy screen app",
-  "longDescription": "Tilt your phone to hide your screen from others. Simple privacy protection.",
-  "logo": "👀",
-  "status": "planned",
-  "category": "Apps",
-  "platforms": [
-    "Android"
-  ],
-  "techStack": [
-    "Kotlin"
-  ],
-  "tags": [
-    "privacy",
-    "screen",
-    "security"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "privtilt",
+    "title":  "PrivTilt",
+    "tagline":  "Privacy screen app",
+    "description":  "Privacy screen app",
+    "longDescription":  "Tilt your phone to hide your screen from others. Simple privacy protection.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Apps",
+    "platforms":  [
+                      "Android"
+                  ],
+    "techStack":  [
+                      "Kotlin"
+                  ],
+    "tags":  [
+                 "privacy",
+                 "screen",
+                 "security"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }

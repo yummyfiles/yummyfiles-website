@@ -1,25 +1,27 @@
 {
-  "slug": "navlab",
-  "title": "Navlab",
-  "tagline": "Custom nav gesture app",
-  "description": "Custom nav gesture app",
-  "longDescription": "Take full control of your navigation gestures. Create custom gestures for any action.",
-  "logo": "👆",
-  "status": "planned",
-  "category": "Apps",
-  "platforms": [
-    "Android"
-  ],
-  "techStack": [
-    "Kotlin"
-  ],
-  "tags": [
-    "navigation",
-    "gestures",
-    "customization"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "navlab",
+    "title":  "Navlab",
+    "tagline":  "Custom nav gesture app",
+    "description":  "Custom nav gesture app",
+    "longDescription":  "Take full control of your navigation gestures. Create custom gestures for any action.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Apps",
+    "platforms":  [
+                      "Android"
+                  ],
+    "techStack":  [
+                      "Kotlin"
+                  ],
+    "tags":  [
+                 "navigation",
+                 "gestures",
+                 "customization"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }

@@ -1,25 +1,27 @@
 {
-  "slug": "messagely",
-  "title": "Messagely",
-  "tagline": "Text and call app",
-  "description": "Text and call app",
-  "longDescription": "Text and call from a clean, simple interface. Focus on communication.",
-  "logo": "💬",
-  "status": "planned",
-  "category": "Apps",
-  "platforms": [
-    "Android"
-  ],
-  "techStack": [
-    "Kotlin"
-  ],
-  "tags": [
-    "messaging",
-    "calls",
-    "communication"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "messagely",
+    "title":  "Messagely",
+    "tagline":  "Text and call app",
+    "description":  "Text and call app",
+    "longDescription":  "Text and call from a clean, simple interface. Focus on communication.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Apps",
+    "platforms":  [
+                      "Android"
+                  ],
+    "techStack":  [
+                      "Kotlin"
+                  ],
+    "tags":  [
+                 "messaging",
+                 "calls",
+                 "communication"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }

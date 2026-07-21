@@ -1,27 +1,29 @@
 {
-  "slug": "appvault",
-  "title": "AppVault",
-  "tagline": "App lock app",
-  "description": "App lock app",
-  "longDescription": "Lock any app with a PIN, pattern, or fingerprint. Keep your private apps away from others.",
-  "logo": "🔒",
-  "status": "planned",
-  "category": "Apps",
-  "platforms": [
-    "Android",
-    "Windows"
-  ],
-  "techStack": [
-    "Kotlin",
-    "Jetpack Compose"
-  ],
-  "tags": [
-    "privacy",
-    "security",
-    "app-lock"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "appvault",
+    "title":  "AppVault",
+    "tagline":  "App lock app",
+    "description":  "App lock app",
+    "longDescription":  "Lock any app with a PIN, pattern, or fingerprint. Keep your private apps away from others.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Apps",
+    "platforms":  [
+                      "Android",
+                      "Windows"
+                  ],
+    "techStack":  [
+                      "Kotlin",
+                      "Jetpack Compose"
+                  ],
+    "tags":  [
+                 "privacy",
+                 "security",
+                 "app-lock"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }

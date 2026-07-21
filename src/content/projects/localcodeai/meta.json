@@ -1,26 +1,46 @@
 {
-  "slug": "localcodeai",
-  "title": "LocalCodeAI",
-  "tagline": "AI coding assistant that runs on your own machine.",
-  "description": "AI coding assistant that runs on your own machine.",
-  "longDescription": "LocalCodeAI is an experimental project where I'm building a coding assistant that runs locally using Ollama. No data leaves your computer. It can do code completion, answer questions about your code, and suggest refactors. Still a work in progress.",
-  "logo": "🤖",
-  "version": "0.1.0",
-  "status": "in-progress",
-  "category": "Developer Tools",
-  "platforms": ["Windows", "macOS", "Linux"],
-  "techStack": ["Rust", "TypeScript", "Ollama"],
-  "tags": ["ai", "coding", "assistant", "local", "llm", "privacy"],
-  "features": [
-    "Local AI-powered code completion",
-    "Answer questions about your codebase",
-    "Suggest refactors and improvements",
-    "No data leaves your machine",
-    "Privacy-first architecture"
-  ],
-  "links": [],
-  "createdAt": "2024-08-01",
-  "updatedAt": "2025-01-10",
-  "featured": true,
-  "relatedProjects": ["void", "imagex"]
+    "slug":  "localcodeai",
+    "title":  "LocalCodeAI",
+    "tagline":  "AI coding assistant that runs on your own machine.",
+    "description":  "AI coding assistant that runs on your own machine.",
+    "longDescription":  "LocalCodeAI is an experimental project where I\u0027m building a coding assistant that runs locally using Ollama. No data leaves your computer. It can do code completion, answer questions about your code, and suggest refactors. Still a work in progress.",
+    "logo":  "",
+    "version":  "0.1.0",
+    "status":  "in-progress",
+    "category":  "Developer Tools",
+    "platforms":  [
+                      "Windows",
+                      "macOS",
+                      "Linux"
+                  ],
+    "techStack":  [
+                      "Rust",
+                      "TypeScript",
+                      "Ollama"
+                  ],
+    "tags":  [
+                 "ai",
+                 "coding",
+                 "assistant",
+                 "local",
+                 "llm",
+                 "privacy"
+             ],
+    "features":  [
+                     "Local AI-powered code completion",
+                     "Answer questions about your codebase",
+                     "Suggest refactors and improvements",
+                     "No data leaves your machine",
+                     "Privacy-first architecture"
+                 ],
+    "links":  [
+
+              ],
+    "createdAt":  "2024-08-01",
+    "updatedAt":  "2025-01-10",
+    "featured":  true,
+    "relatedProjects":  [
+                            "void",
+                            "imagex"
+                        ]
 }

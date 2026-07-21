@@ -1,26 +1,28 @@
 {
-  "slug": "launchy",
-  "title": "Launchy",
-  "tagline": "Launcher app",
-  "description": "Launcher app",
-  "longDescription": "A fast, minimal launcher for Android. Clean home screens and quick app access.",
-  "logo": "🚀",
-  "status": "planned",
-  "category": "Apps",
-  "platforms": [
-    "Android"
-  ],
-  "techStack": [
-    "Kotlin",
-    "Jetpack Compose"
-  ],
-  "tags": [
-    "launcher",
-    "home-screen",
-    "productivity"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "launchy",
+    "title":  "Launchy",
+    "tagline":  "Launcher app",
+    "description":  "Launcher app",
+    "longDescription":  "A fast, minimal launcher for Android. Clean home screens and quick app access.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Apps",
+    "platforms":  [
+                      "Android"
+                  ],
+    "techStack":  [
+                      "Kotlin",
+                      "Jetpack Compose"
+                  ],
+    "tags":  [
+                 "launcher",
+                 "home-screen",
+                 "productivity"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }

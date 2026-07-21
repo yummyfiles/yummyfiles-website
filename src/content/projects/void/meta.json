@@ -1,26 +1,47 @@
 {
-  "slug": "void",
-  "title": "VOID",
-  "tagline": "Minimal desktop chat app for local AI models.",
-  "description": "Minimal desktop chat app for local AI models.",
-  "longDescription": "VOID is a simple chat interface for local AI models. No sign-up, no cloud, and no telemetry. You open it and start chatting right away. It supports Ollama models, so you can connect it to any local model running through Ollama.",
-  "logo": "💬",
-  "version": "0.2.0",
-  "status": "in-progress",
-  "category": "Apps",
-  "platforms": ["Windows", "macOS", "Linux"],
-  "techStack": ["Electron", "React", "TypeScript", "Ollama"],
-  "tags": ["ai", "chat", "local", "ollama", "privacy", "desktop"],
-  "features": [
-    "Minimal, distraction-free chat interface",
-    "Connects to any Ollama model",
-    "No sign-up or cloud required",
-    "Zero telemetry",
-    "Cross-platform desktop app"
-  ],
-  "links": [],
-  "createdAt": "2024-07-15",
-  "updatedAt": "2025-03-01",
-  "featured": true,
-  "relatedProjects": ["localcodeai", "imagex"]
+    "slug":  "void",
+    "title":  "VOID",
+    "tagline":  "Minimal desktop chat app for local AI models.",
+    "description":  "Minimal desktop chat app for local AI models.",
+    "longDescription":  "VOID is a simple chat interface for local AI models. No sign-up, no cloud, and no telemetry. You open it and start chatting right away. It supports Ollama models, so you can connect it to any local model running through Ollama.",
+    "logo":  "",
+    "version":  "0.2.0",
+    "status":  "in-progress",
+    "category":  "Apps",
+    "platforms":  [
+                      "Windows",
+                      "macOS",
+                      "Linux"
+                  ],
+    "techStack":  [
+                      "Electron",
+                      "React",
+                      "TypeScript",
+                      "Ollama"
+                  ],
+    "tags":  [
+                 "ai",
+                 "chat",
+                 "local",
+                 "ollama",
+                 "privacy",
+                 "desktop"
+             ],
+    "features":  [
+                     "Minimal, distraction-free chat interface",
+                     "Connects to any Ollama model",
+                     "No sign-up or cloud required",
+                     "Zero telemetry",
+                     "Cross-platform desktop app"
+                 ],
+    "links":  [
+
+              ],
+    "createdAt":  "2024-07-15",
+    "updatedAt":  "2025-03-01",
+    "featured":  true,
+    "relatedProjects":  [
+                            "localcodeai",
+                            "imagex"
+                        ]
 }

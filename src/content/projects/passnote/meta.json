@@ -1,26 +1,28 @@
 {
-  "slug": "passnote",
-  "title": "PassNote",
-  "tagline": "Password keeper",
-  "description": "Password keeper",
-  "longDescription": "Store your passwords securely. Encrypted, offline, and under your control.",
-  "logo": "🔑",
-  "status": "planned",
-  "category": "Apps",
-  "platforms": [
-    "Android"
-  ],
-  "techStack": [
-    "Kotlin"
-  ],
-  "tags": [
-    "password",
-    "security",
-    "vault",
-    "privacy"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "passnote",
+    "title":  "PassNote",
+    "tagline":  "Password keeper",
+    "description":  "Password keeper",
+    "longDescription":  "Store your passwords securely. Encrypted, offline, and under your control.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Apps",
+    "platforms":  [
+                      "Android"
+                  ],
+    "techStack":  [
+                      "Kotlin"
+                  ],
+    "tags":  [
+                 "password",
+                 "security",
+                 "vault",
+                 "privacy"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }

@@ -1,26 +1,46 @@
 {
-  "slug": "static",
-  "title": "Static",
-  "tagline": "A Discord clone built from scratch.",
-  "description": "A Discord clone built from scratch.",
-  "longDescription": "Static is a full-featured Discord clone I'm planning to build from the ground up. Real-time messaging, voice channels, server management, and more — all built with modern web technologies.",
-  "logo": "⚡",
-  "version": "0.1.0",
-  "status": "in-progress",
-  "category": "Websites",
-  "platforms": ["Windows", "macOS", "Linux"],
-  "techStack": ["Electron", "React", "TypeScript", "Vite", "JavaScript"],
-  "tags": ["discord", "chat", "messaging", "real-time", "web"],
-  "features": [
-    "Real-time messaging",
-    "Server and channel management",
-    "Voice channel support",
-    "Modern web technologies",
-    "Built from scratch"
-  ],
-  "links": [],
-  "createdAt": "2024-10-01",
-  "updatedAt": "2025-01-20",
-  "featured": false,
-  "relatedProjects": ["void"]
+    "slug":  "static",
+    "title":  "Static",
+    "tagline":  "A Discord clone built from scratch.",
+    "description":  "A Discord clone built from scratch.",
+    "longDescription":  "Static is a full-featured Discord clone I\u0027m planning to build from the ground up. Real-time messaging, voice channels, server management, and more — all built with modern web technologies.",
+    "logo":  "",
+    "version":  "0.1.0",
+    "status":  "in-progress",
+    "category":  "Websites",
+    "platforms":  [
+                      "Windows",
+                      "macOS",
+                      "Linux"
+                  ],
+    "techStack":  [
+                      "Electron",
+                      "React",
+                      "TypeScript",
+                      "Vite",
+                      "JavaScript"
+                  ],
+    "tags":  [
+                 "discord",
+                 "chat",
+                 "messaging",
+                 "real-time",
+                 "web"
+             ],
+    "features":  [
+                     "Real-time messaging",
+                     "Server and channel management",
+                     "Voice channel support",
+                     "Modern web technologies",
+                     "Built from scratch"
+                 ],
+    "links":  [
+
+              ],
+    "createdAt":  "2024-10-01",
+    "updatedAt":  "2025-01-20",
+    "featured":  false,
+    "relatedProjects":  [
+                            "void"
+                        ]
 }

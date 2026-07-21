@@ -1,26 +1,28 @@
 {
-  "slug": "nobrainer",
-  "title": "NoBrainer",
-  "tagline": "Trivia game",
-  "description": "Trivia game",
-  "longDescription": "Test your knowledge with thousands of trivia questions across many categories.",
-  "logo": "🧠",
-  "status": "planned",
-  "category": "Games",
-  "platforms": [
-    "Android"
-  ],
-  "techStack": [
-    "Kotlin"
-  ],
-  "tags": [
-    "trivia",
-    "quiz",
-    "game",
-    "knowledge"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "nobrainer",
+    "title":  "NoBrainer",
+    "tagline":  "Trivia game",
+    "description":  "Trivia game",
+    "longDescription":  "Test your knowledge with thousands of trivia questions across many categories.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Games",
+    "platforms":  [
+                      "Android"
+                  ],
+    "techStack":  [
+                      "Kotlin"
+                  ],
+    "tags":  [
+                 "trivia",
+                 "quiz",
+                 "game",
+                 "knowledge"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }

@@ -1,25 +1,27 @@
 {
-  "slug": "calcy",
-  "title": "Calc",
-  "tagline": "Calculator app",
-  "description": "Calculator app",
-  "longDescription": "A powerful calculator with a clean interface. Basic and scientific modes.",
-  "logo": "🧮",
-  "status": "planned",
-  "category": "Apps",
-  "platforms": [
-    "Android"
-  ],
-  "techStack": [
-    "Kotlin"
-  ],
-  "tags": [
-    "calculator",
-    "math",
-    "utility"
-  ],
-  "links": [],
-  "createdAt": "2025-07-21",
-  "updatedAt": "2025-07-21",
-  "featured": false
+    "slug":  "calcy",
+    "title":  "Calc",
+    "tagline":  "Calculator app",
+    "description":  "Calculator app",
+    "longDescription":  "A powerful calculator with a clean interface. Basic and scientific modes.",
+    "logo":  "",
+    "status":  "planned",
+    "category":  "Apps",
+    "platforms":  [
+                      "Android"
+                  ],
+    "techStack":  [
+                      "Kotlin"
+                  ],
+    "tags":  [
+                 "calculator",
+                 "math",
+                 "utility"
+             ],
+    "links":  [
+
+              ],
+    "createdAt":  "2025-07-21",
+    "updatedAt":  "2025-07-21",
+    "featured":  false
 }
