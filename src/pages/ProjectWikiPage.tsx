@@ -34,7 +34,7 @@ export default function ProjectWikiPage() {
 
           {project.wiki ? (
             <ScrollReveal delay={0.15}>
-              <div className="flex flex-col lg:flex-row gap-10">
+              <div className="flex flex-col lg:flex-row-reverse gap-10">
                 {project.wiki.sidebar && (
                   <aside className="lg:w-64 shrink-0">
                     <div
