@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion'
+import { Link } from 'react-router-dom'
 import TypingText from './TypingText'
 import ScrollReveal from './ScrollReveal'
 
@@ -38,17 +39,14 @@ export default function Hero() {
 
         <ScrollReveal delay={0.4}>
           <div className="flex flex-wrap items-center justify-center gap-4">
-            <a
-              href="#projects"
+            <Link
+              to="/projects"
               className="px-8 py-3 bg-white text-black text-sm font-medium rounded-full hover:bg-white/90 hover:shadow-[0_0_24px_rgba(255,255,255,0.15)] transition-all duration-300"
             >
               View Projects
-            </a>
-
+            </Link>
           </div>
         </ScrollReveal>
-
-
       </div>
     </section>
   )

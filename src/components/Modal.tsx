@@ -1,8 +1,9 @@
 import { motion, AnimatePresence } from 'framer-motion'
-import type { Project } from '@/data/projects'
+import type { ProjectMeta } from '@/data/types'
+import { statusLabel, statusColor } from '@/lib/search'
 
 interface ModalProps {
-  project: Project | null
+  project: ProjectMeta | null
   onClose: () => void
 }
 
@@ -38,16 +39,8 @@ export default function Modal({ project, onClose }: ModalProps) {
           </button>
 
           <div className="flex items-center gap-2 mb-1">
-            <span
-              className={`text-xs font-medium px-2 py-0.5 rounded-full ${
-                project.status === 'completed'
-                  ? 'bg-white/10 text-white/70'
-                  : project.status === 'in-progress'
-                    ? 'bg-white/10 text-white/70'
-                    : 'bg-white/5 text-white/40'
-              }`}
-            >
-              {project.status === 'completed' ? 'Live' : project.status === 'in-progress' ? 'In Progress' : 'Planned'}
+            <span className={`text-xs font-medium px-2 py-0.5 rounded-full ${statusColor(project.status)}`}>
+              {statusLabel(project.status)}
             </span>
           </div>
 
@@ -55,7 +48,7 @@ export default function Modal({ project, onClose }: ModalProps) {
           <p className="text-white/60 leading-relaxed mb-6">{project.longDescription}</p>
 
           <div className="flex flex-wrap gap-2 mb-6">
-            {project.tags.map((tag) => (
+            {project.techStack.map((tag) => (
               <span
                 key={tag}
                 className="text-xs text-white/40 bg-white/5 px-3 py-1 rounded-full"

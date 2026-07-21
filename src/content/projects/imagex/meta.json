@@ -1,0 +1,26 @@
+{
+  "slug": "imagex",
+  "title": "ImageX",
+  "tagline": "A free Photoshop clone that's easy to use.",
+  "description": "A free Photoshop clone that's easy to use but has every feature Photoshop does.",
+  "longDescription": "ImageX started because I wanted a Photoshop clone that didn't cost money. Something easy to use but with every feature Photoshop has. Building it with Electron so it runs as a desktop app.",
+  "logo": "🖼️",
+  "version": "0.1.0",
+  "status": "in-progress",
+  "category": "Software",
+  "platforms": ["Windows", "macOS", "Linux"],
+  "techStack": ["Python", "Electron", "TypeScript"],
+  "tags": ["image-editor", "photoshop", "desktop", "free", "open-source"],
+  "features": [
+    "Free and open-source image editing",
+    "Desktop application via Electron",
+    "Familiar Photoshop-like interface",
+    "Layer support",
+    "Filters and effects"
+  ],
+  "links": [],
+  "createdAt": "2024-09-01",
+  "updatedAt": "2025-02-15",
+  "featured": false,
+  "relatedProjects": ["localcodeai", "void"]
+}
