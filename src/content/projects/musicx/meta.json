@@ -5,7 +5,7 @@
   "description": "Offline music player focused on speed and simplicity.",
   "longDescription": "MusicX is an offline music player I built because I was tired of ads and bloated apps. It plays your local files, makes playlists, and just works. No accounts, no internet needed. Working on a v2 with some new ideas.",
   "logo": "",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "status": "completed",
   "license": "GPL-3.0",
   "category": "Apps",
