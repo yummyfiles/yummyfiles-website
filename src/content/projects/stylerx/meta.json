@@ -1,55 +1,53 @@
 {
-    "slug":  "stylerx",
-    "title":  "StylerX",
-    "tagline":  "Make OBS Studio look how you want — theme it in real time.",
-    "description":  "Make OBS Studio look how you want — theme it in real time.",
-    "longDescription":  "OBS Studio plugin that lets you change the whole look of it while it\u0027s running. Every color, panel, button — tweak it all instantly. Comes with a live color picker, raw CSS editor, widget inspector, theme save/export, and a Python CLI. Written in C++17 with Qt6.",
-    "logo":  "",
-    "version":  "1.0.0",
-    "status":  "completed",
-    "license":  "GPL-3.0",
-    "category":  "Software",
-    "platforms":  [
-                      "Windows",
-                      "macOS",
-                      "Linux"
-                  ],
-    "techStack":  [
-                      "C++",
-                      "Qt6",
-                      "OBS Studio",
-                      "CMake",
-                      "Python"
-                  ],
-    "tags":  [
-                 "obs",
-                 "theming",
-                 "plugin",
-                 "css",
-                 "real-time",
-                 "customization"
-             ],
-    "features":  [
-                     "Real-time OBS Studio theming",
-                     "Live color picker",
-                     "Raw CSS editor",
-                     "Widget inspector",
-                     "Theme save and export",
-                     "Python CLI for theme management"
-                 ],
-    "links":  [
-                  {
-                      "label":  "GitHub",
-                      "url":  "https://github.com/yummyfiles/StylerX-Styler_for_OBS_Studio"
-                  }
-              ],
-    "github":  {
-                   "url":  "https://github.com/yummyfiles/StylerX-Styler_for_OBS_Studio"
-               },
-    "createdAt":  "2023-11-01",
-    "updatedAt":  "2024-08-15",
-    "featured":  true,
-    "relatedProjects":  [
-                            "musicx"
-                        ]
+  "slug": "stylerx",
+  "title": "StylerX",
+  "tagline": "Make OBS Studio look how you want — theme it in real time.",
+  "description": "Make OBS Studio look how you want — theme it in real time.",
+  "longDescription": "OBS Studio plugin that lets you change the whole look of it while it's running. Every color, panel, button — tweak it all instantly. Comes with a live color picker, raw CSS editor, widget inspector, theme save/export, and a Python CLI. Written in C++17 with Qt6.",
+  "logo": "",
+  "version": "1.0.0",
+  "status": "completed",
+  "license": "GPL-3.0",
+  "category": "Software",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "techStack": [
+    "C++",
+    "Qt6",
+    "OBS Studio",
+    "CMake",
+    "Python"
+  ],
+  "tags": [
+    "obs",
+    "theming",
+    "plugin",
+    "css",
+    "real-time",
+    "customization"
+  ],
+  "features": [
+    "Real-time OBS Studio theming",
+    "Live color picker",
+    "Raw CSS editor",
+    "Widget inspector",
+    "Theme save and export",
+    "Python CLI for theme management"
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/yummyfiles/StylerX-Styler_for_OBS_Studio"
+    }
+  ],
+  "github": {
+    "url": "https://github.com/yummyfiles/StylerX-Styler_for_OBS_Studio"
+  },
+  "createdAt": "2023-11-01",
+  "updatedAt": "2024-08-15",
+  "featured": true,
+  "releases": []
 }

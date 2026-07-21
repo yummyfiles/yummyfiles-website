@@ -39,9 +39,5 @@
               ],
     "createdAt":  "2024-07-15",
     "updatedAt":  "2025-03-01",
-    "featured":  true,
-    "relatedProjects":  [
-                            "localcodeai",
-                            "imagex"
-                        ]
+    "featured":  true
 }

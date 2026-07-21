@@ -37,9 +37,5 @@
               ],
     "createdAt":  "2024-09-01",
     "updatedAt":  "2025-02-15",
-    "featured":  false,
-    "relatedProjects":  [
-                            "localcodeai",
-                            "void"
-                        ]
+    "featured":  false
 }

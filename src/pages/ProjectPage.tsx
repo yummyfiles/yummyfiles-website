@@ -1,11 +1,10 @@
 import { useParams, Link, Navigate } from 'react-router-dom'
 import { Helmet } from 'react-helmet-async'
 
-import { getProjectBySlug, getRelatedProjects } from '@/data/projects'
+import { getProjectBySlug } from '@/data/projects'
 import { statusLabel, statusColor, formatDate } from '@/lib/search'
 import ScrollReveal from '@/components/ScrollReveal'
 import TechBadge from '@/components/projects/TechBadge'
-import ProjectCard from '@/components/projects/ProjectCard'
 
 export default function ProjectPage() {
   const { slug } = useParams<{ slug: string }>()
@@ -14,8 +13,6 @@ export default function ProjectPage() {
   if (!project) {
     return <Navigate to="/projects" replace />
   }
-
-  const related = getRelatedProjects(project.slug)
 
   return (
     <>
@@ -226,21 +223,6 @@ export default function ProjectPage() {
             </ScrollReveal>
           </div>
 
-          {related.length > 0 && (
-            <ScrollReveal delay={0.35}>
-              <div className="border-t border-white/5 pt-12">
-                <h2 className="text-sm text-white/40 uppercase tracking-[0.2em] mb-8 flex items-center gap-3">
-                  <span className="w-6 h-px bg-white/20" />
-                  Related Projects
-                </h2>
-                <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                  {related.map((p, i) => (
-                    <ProjectCard key={p.slug} project={p} index={i} />
-                  ))}
-                </div>
-              </div>
-            </ScrollReveal>
-          )}
         </div>
       </section>
     </>

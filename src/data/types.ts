@@ -46,10 +46,22 @@ export interface ProjectMeta {
   createdAt: string
   updatedAt: string
   featured?: boolean
-  relatedProjects?: string[]
   wiki?: {
     sidebar?: string
     content: string
   }
   docs?: string
+  releases?: {
+    tag: string
+    name: string
+    date: string
+    body: string
+    prerelease: boolean
+    url: string
+    assets: {
+      name: string
+      size: number
+      download: string
+    }[]
+  }[]
 }

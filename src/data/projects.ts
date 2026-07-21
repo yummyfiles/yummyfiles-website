@@ -22,14 +22,6 @@ export function getRecentProjects(count = 6): ProjectMeta[] {
     .slice(0, count)
 }
 
-export function getRelatedProjects(slug: string): ProjectMeta[] {
-  const project = getProjectBySlug(slug)
-  if (!project?.relatedProjects) return []
-  return project.relatedProjects
-    .map((s) => getProjectBySlug(s))
-    .filter((p): p is ProjectMeta => p !== undefined)
-}
-
 export function getAllCategories(): string[] {
   return [...new Set(projects.map((p) => p.category))].sort()
 }

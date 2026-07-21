@@ -39,8 +39,5 @@
               ],
     "createdAt":  "2024-10-01",
     "updatedAt":  "2025-01-20",
-    "featured":  false,
-    "relatedProjects":  [
-                            "void"
-                        ]
+    "featured":  false
 }
