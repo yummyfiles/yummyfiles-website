@@ -18,8 +18,20 @@ export default function Navbar() {
   const [scrolled, setScrolled] = useState(false)
   const [active, setActive] = useState('')
   const [open, setOpen] = useState(false)
+  const [bannerVisible, setBannerVisible] = useState(true)
   const location = useLocation()
   const isHome = location.pathname === '/'
+
+  useEffect(() => {
+    const checkBanner = () => {
+      const banner = document.querySelector('.kao-banner')
+      setBannerVisible(banner !== null && (banner as HTMLElement).style.display !== 'none')
+    }
+    checkBanner()
+    const observer = new MutationObserver(checkBanner)
+    observer.observe(document.body, { childList: true, subtree: true, attributes: true, attributeFilter: ['style'] })
+    return () => observer.disconnect()
+  }, [])
 
   useEffect(() => {
     const onScroll = () => {
@@ -44,9 +56,9 @@ export default function Navbar() {
 
   return (
     <nav
-      className={`fixed top-10 left-0 right-0 z-50 transition-all duration-300 ${
-        scrolled || !isHome ? 'bg-black/80 backdrop-blur-md' : 'bg-transparent'
-      }`}
+      className={`fixed left-0 right-0 z-50 transition-all duration-300 ${
+        bannerVisible ? 'top-10' : 'top-0'
+      } ${scrolled || !isHome ? 'bg-black/80 backdrop-blur-md' : 'bg-transparent'}`}
     >
       <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
         <Link to="/" className="text-lg font-semibold tracking-tight">
